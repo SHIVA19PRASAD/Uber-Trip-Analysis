@@ -15,8 +15,7 @@ Midtown Center emerged as the highest-demand location, making it a critical oper
 Tools Used : 
 Power BI, Power Query, DAX, Data Modeling ,Data Cleaning .
 
-Business Outcome
-1. Optimizing pricing strategies using booking value trends
-2. Improving vehicle allocation based on demand patterns
-3. Enhancing customer satisfaction through location-based service improvements
-4. Supporting business decisions using real-time visual insights
+Business Outcome :
+Optimizing pricing strategies using booking value trends and mproving vehicle allocation based on demand patterns
+Enhancing customer satisfaction through location-based service improvements and supporting business decisions using real-time visual insights . 
+
